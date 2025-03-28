@@ -1,0 +1,43 @@
+Frameworks é um conjunto de pacotes já testados e funcionais / Pacotes é um conjunto de biblotecas
+API é um conjutno de Frameworks
+
+
+Disciplina de Fundamentos de Sistemas de Informação Aula4
+    Modelo de negócio em Sistemas de Informação
+        - Software as a service - SaaS
+        - Plataform as a service - PaaS
+        - Infraestructure as a service - IaaS
+        - ...
+
+        - Pesquisar sobre:
+            -Modelo de negócio de Sistemas de Informação
+            -Integração Microserviços
+        -Depois pesquisar com IA diferença de biblioteca, pacotes, frameworks e API
+
+
+        Respostas
+        O que é SaaS?
+            - O "software as a service" é como se fosse um site hospedado na internet via "cloud computing" mas alem do software existem as empresas que trabalham com o SaaS. Alem de desenvolverem este software elas ficam responsáveis pela confiabilidade e segurança do serviço.
+
+        O que é PaaS?
+            - É uma plataforma de "cloud computing" onde as aplicações da plataforma são fornecidas por terceiros. Serviço direcionado para desenvolvedores e programadores, permite desenvolver executar e gerenciar aplicações sem o trabalho de criar e manter a infraestrutura. Pode funcionar tanto na nuvem quanto na infraestrutura on-premise(servidores locais na empresa)
+
+        O que é IaaS?
+        A "Infrastructure as a Service" é um modelo de computação em nuvem que fornece acesso sob demanda a recursos de computação, como servidores, armazenamento, rede e virtualização. Basicamente é alugar o acesso a recursos de infraestrutura em nuvem como serviços individuais de um provedor de serviços em nuvem
+
+        Qual a diferença entre biblioteca, pacote, frameworks e API?
+
+        Biblioteca (Library):
+            Conjunto de funções e classes pré-prontas que você pode usar no seu código para realizar tarefas específicas. Você “chama” a biblioteca quando precisa executar uma ação, sem precisar se preocupar com sua implementação interna.
+
+        Pacote (Package):
+            Agrupamento de módulos ou bibliotecas que organizam e distribuem funcionalidades relacionadas de forma estruturada. Por exemplo, em Python, um pacote é uma pasta com um arquivo especial (__init__.py) que permite que vários módulos sejam acessados de maneira organizada.
+
+        Framework:
+            Estrutura ou ambiente que define a base e o fluxo de uma aplicação. Ao usar um framework, você segue um conjunto de regras e padrões que já vêm pré-definidos, e o framework geralmente “chama” o seu código (inversão de controle). Ele fornece uma arquitetura completa para facilitar o desenvolvimento da aplicação.
+
+        API (Application Programming Interface):
+            Conjunto de regras, protocolos e definições que permite a comunicação entre diferentes softwares ou componentes. Pode ser uma interface de uma biblioteca, de um framework ou de um serviço web. A API especifica como utilizar determinadas funcionalidades sem revelar os detalhes internos de implementação.
+
+
+
